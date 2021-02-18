@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>Socks5Server.Program</StartupObject>
+    <AssemblyName>Socks5Server</AssemblyName>
+    <RootNamespace>Socks5Server</RootNamespace>
+  </PropertyGroup>
+
+
+
+</Project>
