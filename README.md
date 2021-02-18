@@ -1,7 +1,9 @@
 <img src="https://img.shields.io/badge/BUILD-PASSED-green"> <img src="https://img.shields.io/badge/.NET-3.5-red"> <img src="https://img.shields.io/badge/.NET-4.0-red"> <img src="https://img.shields.io/badge/.NET-Core 3.1-red">
 # SharpSocks5
 
-<img src="https://github.com/sharpbyte/SharpSocks5/blob/main/docs/images/logo.png?raw=true" valign="middle"> # Tunnellable HTTP/HTTPS socks5 proxy written in C#
+## <img src="https://github.com/sharpbyte/SharpSocks5/blob/main/docs/images/logo.png?raw=true" valign="middle">
+
+#### Tunnellable HTTP/HTTPS socks5 proxy written in C#
 
 ## Functionality
 - CONNECT X'01' Compatible
